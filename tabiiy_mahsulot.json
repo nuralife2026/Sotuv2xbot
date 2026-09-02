@@ -8,6 +8,14 @@
     {
       "sarlavha": "E'tirozga javob: \"Bu ishlaydimi o'zi?\"",
       "matn": "\"Tushunaman, savolingiz to'g'ri — shuning uchun kichik hajmda sinab ko'rishni tavsiya qilaman. Agar natija ko'rinmasa, keyingi safar buyurtma berish shart emas\" — bosimsiz, ishonch beruvchi javob."
+    },
+    {
+      "sarlavha": "Ijtimoiy tarmoqdan yozgan mijozga birinchi javob",
+      "matn": "1. Tez va samimiy javob bering: \"Assalomu alaykum! Mahsulotimizga qiziqqaningiz uchun rahmat.\"\n2. Muammosini so'rang, mahsulotni darhol \"sotmang\": \"Aytingchi, sizni ko'proq nima bezovta qiladi, shunga qarab eng mos variantni taklif qilaman.\"\n3. Ishonch uchun tarkib/sertifikat haqida qisqa ma'lumot bering, keyin buyurtma berish jarayonini soddalashtiring: \"Xohlasangiz, hoziroq manzilingizni qoldiring, yetkazib beramiz.\""
+    },
+    {
+      "sarlavha": "Qayta xarid uchun follow-up skripti",
+      "matn": "1. Xariddan 2-3 hafta o'tgach yozing: \"Assalomu alaykum! Mahsulotdan foydalanishni boshlaganingizga taxminan [X] hafta bo'ldi, o'zingizni qanday his qilyapsiz?\"\n2. Ijobiy javob bo'lsa: \"Zo'r, davom etish uchun yangi partiyani hoziroq buyurtma qilib qo'yaylikmi, tugab qolmasin?\"\n3. Salbiy yoki noaniq javob bo'lsa: bosim qilmang, foydalanish tartibi to'g'ri ekanini tekshiring, kerak bo'lsa maslahat bering."
     }
   ],
   "xatoliklar": [
@@ -22,6 +30,14 @@
     {
       "sarlavha": "Xato: Mijoz muammosini tinglamaslik",
       "matn": "Mahsulotni darhol taklif qilish, muammoni aniqlamasdan, ishonchsizlik tug'diradi. Har doim avval savol bering, keyin taklif qiling."
+    },
+    {
+      "sarlavha": "Xato: Nojo'ya ta'sirlar haqida gapirmaslik",
+      "matn": "Faqat foydani gapirib, ehtiyot choralari yoki mos kelmasligi mumkin bo'lgan holatlarni (homiladorlik, allergiya, boshqa dori bilan mos kelmaslik) aytmaslik xavfli va ishonchsizlik keltirib chiqaradi. Yechim: har doim halol ma'lumot bering, kerak bo'lsa shifokor bilan maslahatlashishni tavsiya qiling."
+    },
+    {
+      "sarlavha": "Xato: Qayta aloqa qilmaslik (follow-up yo'qligi)",
+      "matn": "Sog'liq mahsulotlarida takroriy xarid asosiy daromad manbai, lekin ko'p operator birinchi xariddan keyin mijozni unutadi. Yechim: har bir mijoz uchun eslatma qo'ying va 2-3 haftadan keyin albatta aloqaga chiqing."
     }
   ],
   "formulalar": [
@@ -32,6 +48,32 @@
     {
       "sarlavha": "Ishonch uchglagi",
       "matn": "1) Tarkib shaffofligi (nima bordan tayyorlangan)\n2) Ijtimoiy isbot (sharhlar, natijalar)\n3) Kafolat (agar mos kelmasa, qaytarish sharti) — uchalasi birga bo'lsa ishonch maksimal bo'ladi."
+    },
+    {
+      "sarlavha": "Grant Cardone'ning \"10X qoidasi\" — tabiiy mahsulot sotishda",
+      "matn": "Mohiyati: kontakt sonini 10 barobar oshiring, lekin sifatni pasaytirmang. Sog'liq mahsulotlarida ishonch sekin qozoniladi, shuning uchun \"10X\" — ko'proq odamga bitta qo'ng'iroq emas, balki har bir mijoz bilan 10 barobar ko'proq follow-up (kuzatuv) qilish degani: birinchi xariddan keyin natija qanday ekanini so'rang, ikkinchi va uchinchi marta ham aloqada bo'ling. Sabr va izchillik bu sohada eng katta kuch."
+    },
+    {
+      "sarlavha": "Jeffrey Gitomer'ning ishonchga asoslangan yopish texnikasi — tabiiy mahsulotda",
+      "matn": "Bosim ishlamaydi, chunki sog'liq mavzusida odamlar ehtiyotkor. Gitomer tamoyili: avval bepul foydali maslahat bering (masalan, sog'lom turmush tarzi bo'yicha), shundan keyin mahsulotni tabiiy ravishda tavsiya qiling. \"Ishonchni sotib bo'lmaydi, uni faqat qozonish mumkin\" — shuning uchun har doim haqiqatni gapiring, natija kafolatlanmasa, buni ochiq ayting."
+    }
+  ],
+  "etirozlar": [
+    {
+      "sarlavha": "\"Bunday mahsulotlarga ishonmayman\" e'toziga javob",
+      "matn": "Bahslashmang, tinglang: \"Tushunaman, bozorda sifatsiz mahsulot ko'p, shuning uchun ehtiyot bo'lish to'g'ri. Bizning tarkib va sertifikatlarni ko'rsataymi?\" — shaffoflik ishonchni tiklaydi."
+    },
+    {
+      "sarlavha": "\"Narxi qimmat, oddiy dorixonadagi arzon\" e'toziga javob",
+      "matn": "\"To'g'ri, narxda farq bor. Farqi — tarkib tozaligi va kontsentratsiyasida. Kichik hajmda sinab ko'rib, natijani o'zingiz solishtirishingiz mumkin\" — bosimsiz, faktga asoslangan javob."
+    },
+    {
+      "sarlavha": "\"Shifokorimga maslahatlashib olay\" e'toziga javob",
+      "matn": "Bu — sog'lom va to'g'ri yondashuv, uni qo'llab-quvvatlang: \"Albatta, bu to'g'ri qaror. Shifokoringiz uchun tarkib ro'yxati va sertifikatni yuboraymi, shunda tezroq maslahat olasiz?\" — bosim qilmang, aksincha yordam bering."
+    },
+    {
+      "sarlavha": "\"Oldin sinab ko'rgan mahsulot yordam bermagan edi\" e'toziga javob",
+      "matn": "\"Tushunarli, bu haqiqatan ham xafa qiladi. Aytingchi, o'sha mahsulotning tarkibi qanday edi va qancha muddat ishlatgan edingiz?\" — sabrni tinglang, farqni (tarkib, doza, muddat) tushuntiring, ortiqcha va'da bermang."
     }
   ]
 }

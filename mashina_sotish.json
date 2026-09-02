@@ -8,6 +8,14 @@
     {
       "sarlavha": "Telefon orqali qiziqish uyg'otish",
       "matn": "1. \"Sizga mos avtomobil haqida qisqa ma'lumot bersam bo'ladimi?\" — ruxsat so'rang.\n2. Avtomobilning 1-2 eng kuchli afzalligini ayting (narx, kam yurgan, kafolat).\n3. \"Salonga kelib ko'rishga qachon qulay bo'lardi?\" deb aniq vaqt taklif qiling."
+    },
+    {
+      "sarlavha": "Eski mashinasini \"trade-in\" qilmoqchi bo'lgan mijoz bilan ishlash",
+      "matn": "1. Avval mijozning eski mashinasi haqida so'rang: \"Hozirgi mashinangiz qaysi yili, necha km yurgan?\"\n2. Baholash jarayonini tushuntiring: \"Bizning texnik xodim uni ko'rib, adolatli narx aytadi, bu 15-20 daqiqa vaqt oladi.\"\n3. Yangi mashina narxidan eski mashina qiymatini ayirib, \"farq summasi\"ni aniq ayting — bu mijozga real byudjetni ko'rsatadi va qaror qabul qilishni osonlashtiradi."
+    },
+    {
+      "sarlavha": "Mijoz \"faqat narxlarni bilib qo'yaman\" deganda",
+      "matn": "1. Bosim qilmang: \"Albatta, narxlar bilan tanishing.\"\n2. Qiziqishini kengaytiring: \"Aytingchi, qaysi model sizni ko'proq qiziqtiryapti — men sizga aniq konfiguratsiya bo'yicha narx tayyorlab beray?\"\n3. Keyingi aloqa uchun asos yarating: \"Raqamingizni qoldirsangiz, ushbu modelga chegirma bo'lganda birinchi bo'lib xabar beraman.\""
     }
   ],
   "xatoliklar": [
@@ -22,6 +30,14 @@
     {
       "sarlavha": "Xato: Kredit/bo'lib to'lash variantlarini kech aytish",
       "matn": "Ko'p mijozlar narxdan qo'rqib ketadi, chunki bo'lib to'lash imkoniyati haqida oxirida aytiladi. Yechim: suhbat boshidayoq oylik to'lov summasini ayting, bu narxni \"kichraytiradi\"."
+    },
+    {
+      "sarlavha": "Xato: Mijozni yolg'iz qoldirib, kerakli ma'lumot bermaslik",
+      "matn": "Mijoz salonda mashinani ko'rib turganda, sotuvchi uzoq turib \"o'zi qaror qilsin\" deb kutadi. Bu ishonchsizlik va e'tiborsizlik taassurotini beradi. Yechim: yaqin turing, savol bo'lsa darhol javob bering, lekin bosim qilmang — muvozanatni saqlang."
+    },
+    {
+      "sarlavha": "Xato: Kafolat va texnik xizmat shartlarini aytmaslik",
+      "matn": "Mijozlar uchun sotuvdan keyingi xizmat (kafolat muddati, bepul TO, zapchastlar mavjudligi) narxdan kam ahamiyatli emas. Buni aytmaslik keyinchalik ishonchsizlikka olib keladi. Yechim: har doim kafolat shartlarini aniq va oldindan tushuntiring."
     }
   ],
   "formulalar": [
@@ -32,6 +48,32 @@
     {
       "sarlavha": "Ijtimoiy isbot (Social Proof)",
       "matn": "\"Bu model oxirgi oyda eng ko'p sotilgan avtomobillardan biri bo'ldi\" yoki mamnun mijozlar sharhlarini ko'rsating — ishonchni oshiradi."
+    },
+    {
+      "sarlavha": "Grant Cardone'ning \"10X qoidasi\" — mashina sotishda",
+      "matn": "Mohiyati: harakat va maqsadni 10 barobar oshiring. Amalda: agar oyiga 10 ta test-drayv o'tkazsangiz, 100 taga chiqarishga intiling — bu ko'proq \"yo'q\" eshitishni anglatadi, lekin mutlaq savdo soni ham ortadi. Cardone tamoyili: hech qachon bitta mijozga \"hamma tuxumni bir savatga\" qo'ymang — doim keyingi 3-5 mijoz bilan parallel ishlang, shunda bitta rad javobi sizni to'xtatmaydi."
+    },
+    {
+      "sarlavha": "Jeffrey Gitomer'ning savolga asoslangan yopish texnikasi — mashina sotishda",
+      "matn": "Bosim o'rniga savol bering: \"Agar bu mashina sizga har kuni qulaylik va ishonch bersa, buni sinab ko'rishga qanday qaraysiz?\" Gitomer falsafasi bo'yicha ishonch — narxdan oldin keladi: avval mijozga foydali maslahat bering (masalan, texnik xizmat bo'yicha), keyin sotuvga o'ting. \"Odamlar ishonadigan odamdan sotib oladi, mahsulotdan emas\"."
+    }
+  ],
+  "etirozlar": [
+    {
+      "sarlavha": "\"Boshqa joyda arzonroq ko'rdim\" e'toziga javob",
+      "matn": "\"Tushunarli, narxni solishtirish muhim. Aytingchi, o'sha variant kafolat, texnik xizmat va kredit shartlari jihatidan ham bir xilmi?\" — bu orqali narxni emas, umumiy qiymatni solishtirishga o'tkazasiz."
+    },
+    {
+      "sarlavha": "\"Krediti qanday bo'ladi, tushunmayapman\" e'toziga javob",
+      "matn": "Murakkab foiz stavkalari o'rniga, oylik to'lov summasini aniq raqamda ayting: \"Oyiga taxminan X so'm to'laysiz, bu sizning hozirgi byudjetingizga qanchalik mos?\" — sodda va aniq."
+    },
+    {
+      "sarlavha": "\"Rangi/konfiguratsiyasi menga mos emas\" e'toziga javob",
+      "matn": "\"Tushunarli, tashqi ko'rinish ham muhim. Aytingchi, aynan qaysi rang yoki jihozlanish sizga ko'proq yoqadi — men mavjudligini tekshirib, agar hozir yo'q bo'lsa, buyurtma qilish muddatini aytaman.\" — mijozni rad etmang, muqobil yechim taklif qiling."
+    },
+    {
+      "sarlavha": "\"Hozir emas, keyinroq olaman\" e'toziga javob",
+      "matn": "Bosim qilmang, lekin sababni aniqlang: \"Tushunarli. Aytingchi, keyinroq deganda — narx sabablimi, yoki hali qaror qilmaganingiz uchunmi?\" Agar narx sababli bo'lsa, joriy aksiya yoki chegirma muddatini eslatib o'ting (agar haqiqiy bo'lsa)."
     }
   ]
 }

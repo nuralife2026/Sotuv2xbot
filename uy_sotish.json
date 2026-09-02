@@ -3,7 +3,7 @@
   "skriptlar": [
     {
       "sarlavha": "Sovuq qo'ng'iroq (birinchi kontakt)",
-      "matn": "1. Salomlashing, ismingiz va kompaniyangizni ayting.\n2. \"Sizga 2 daqiqa vaqtingiz bormi?\" deb so'rang — ruxsat oling.\n3. Qiziqishini aniqlang: \"Qanday turdagi uy qidiryapsiz — kvartira, hovli joyми?\"\n4. Byudjet va joylashuvni bilib oling, lekin to'g'ridan-to'g'ri emas: \"Qaysi hududda yashashni afzal ko'rasiz?\"\n5. Uchrashuvga taklif qiling: \"Sizga mos 2-3 variant bor, ko'rsatib bersam bo'ladimi?\""
+      "matn": "1. Salomlashing, ismingiz va kompaniyangizni ayting.\n2. \"Sizga 2 daqiqa vaqtingiz bormi?\" deb so'rang — ruxsat oling.\n3. Qiziqishini aniqlang: \"Qanday turdagi uy qidiryapsiz — kvartira, hovli joymi?\"\n4. Byudjet va joylashuvni bilib oling, lekin to'g'ridan-to'g'ri emas: \"Qaysi hududda yashashni afzal ko'rasiz?\"\n5. Uchrashuvga taklif qiling: \"Sizga mos 2-3 variant bor, ko'rsatib bersam bo'ladimi?\""
     },
     {
       "sarlavha": "Ko'rgazma (ob'ektni ko'rsatish) skripti",
@@ -12,6 +12,14 @@
     {
       "sarlavha": "Bitimni yopish (closing) skripti",
       "matn": "1. \"Agar narx va shartlar mos kelsa, bugun qaror qabul qilishga tayyormisiz?\" deb to'g'ridan-to'g'ri so'rang.\n2. Ikkilanish bo'lsa: \"Sizni nima tashvishlantiryapti — narxmi, hujjatlarmi, muddatmi?\" deb aniq sabab toping.\n3. Muqobil taklif bering: \"Agar narxni biroz moslashtirsak, bugun shartnoma tuzishga tayyormisiz?\""
+    },
+    {
+      "sarlavha": "Ijtimoiy tarmoqdan kelgan mijoz bilan birinchi yozishma",
+      "matn": "1. Tez javob bering (5-10 daqiqa ichida) — sekin javob mijozni raqobatchiga yo'qotadi.\n2. Ismini so'rab, shaxsiylashtiring: \"Assalomu alaykum, [ism]! E'lonimizga qiziqqaningiz uchun rahmat.\"\n3. Bitta aniq savol bering (ko'p savol bilan bosim qilmang): \"Qaysi hududda uy qidiryapsiz?\"\n4. Qo'ng'iroqqa yoki ko'rgazmaga o'tishga taklif qiling: \"Batafsilroq telefon orqali gaplashsak qulayroq bo'ladi, qachon bo'sh vaqtingiz bor?\""
+    },
+    {
+      "sarlavha": "Mijoz \"faqat qarab qo'yaman\" deganda ishlatiladigan skript",
+      "matn": "1. Bosim qilmang: \"Albatta, shoshilmang, hozircha faqat variantlarni ko'rib chiqing.\"\n2. Foydali qiymat bering: \"Agar xohlasangiz, sizga mos yangi obyektlar chiqqanda birinchi bo'lib xabar beraman.\"\n3. Aloqa ma'lumotini oling: \"Qulay bo'lishi uchun raqamingizni qoldirsangiz, faqat mos variant bo'lsagina yozaman, bezovta qilmayman.\""
     }
   ],
   "xatoliklar": [
@@ -26,6 +34,14 @@
     {
       "sarlavha": "Xato: Follow-up qilmaslik",
       "matn": "Ko'rgazmadan keyin 70% operator mijozga qayta bog'lanmaydi. Yechim: 24 soat ichida albatta qo'ng'iroq yoki xabar, 3-5 kunda yana bir eslatma."
+    },
+    {
+      "sarlavha": "Xato: Hujjatlar va huquqiy tozalik haqida kech gapirish",
+      "matn": "Ko'p mijoz uy sotib olishda eng katta qo'rquvi — hujjatlarning tozaligi (garov, meros nizolari, ruxsatnomalar). Buni oxirigacha aytmaslik ishonchsizlik tug'diradi. Yechim: suhbat boshidayoq hujjatlar tayyor va tekshirilganini ta'kidlang — bu raqobatchilardan ustunlik beradi."
+    },
+    {
+      "sarlavha": "Xato: Bitta obyektni \"majburlab\" sotishga urinish",
+      "matn": "Agar mijoz aniq bir uyni yoqtirmasa, uni majburlab \"ishontirish\" ishonchni butunlay yo'qotadi. Yechim: \"Tushunarli, bu sizga mos emas ekan. Aytingchi, aynan nimasi yoqmadi — shunda sizga aniqroq mos variant topib beraman\" deb so'rang."
     }
   ],
   "formulalar": [
@@ -36,6 +52,36 @@
     {
       "sarlavha": "FOMO (yo'qotish qo'rquvi) formulasi",
       "matn": "\"Bu narxdagi shu turdagi uylar hozir juda kam qolgan\" yoki \"Bu obyektga yana 2 kishi qiziqmoqda\" — lekin FAQAT haqiqat bo'lsa ishlating, yolg'on ishonchni yo'qotadi."
+    },
+    {
+      "sarlavha": "SPIN texnikasi (chuqur ehtiyojni ochish)",
+      "matn": "Situation (Vaziyat): \"Hozir qayerda va qanday sharoitda yashaysiz?\"\nProblem (Muammo): \"Hozirgi joyingizda nima yetishmayapti?\"\nImplication (Oqibat): \"Bu muammo oilangizga, kundalik hayotingizga qanday ta'sir qiladi?\"\nNeed-payoff (Yechim qiymati): \"Agar shu muammo hal bo'lsa, hayotingiz qanday o'zgaradi?\" — mijozning o'zi yechimning qiymatini his qiladi."
+    },
+    {
+      "sarlavha": "Grant Cardone'ning \"10X qoidasi\" — uy sotishda",
+      "matn": "G'oyaning mohiyati: maqsad va harakatni 10 barobar oshiring, chunki ko'pchilik o'z imkoniyatini kam baholaydi. Amalda: agar kuniga 5 ta mijozga qo'ng'iroq qilsangiz, 50 taga chiqaring — statistik jihatdan bitim yopish ehtimoli ham 10 barobar oshadi. Rad javobidan qo'rqmang: \"Har bir 'yo'q' sizni 'ha'ga yaqinlashtiradi\" tamoyili bilan ishlang. Uy sotishda bu — ko'proq ko'rgazma o'tkazish, ko'proq follow-up qilish, hech qachon bitta mijozga \"hamma narsa\" deb qaramaslik degani."
+    },
+    {
+      "sarlavha": "Jeffrey Gitomer'ning savolga asoslangan yopish texnikasi — uy sotishda",
+      "matn": "Gitomer falsafasi: \"Odamlar sotib olishni yaxshi ko'radi, lekin ularga sotilishini yomon ko'radi\" — shuning uchun bosim o'rniga savol orqali mijozning o'zini qaror qabul qilishga yetaklang. Misol: \"Ushbu uyda oilangiz bilan tasavvur qilsangiz, o'zingizni qanday his qilasiz?\" — javob ijobiy bo'lsa, darhol: \"Unda nega bugun rasmiylashtirmaymiz?\" deb so'rang. Ishonchni oldindan qozonish uchun har bir savolda mijozga foyda bering, faqat o'z manfaatingizni ko'zlamang."
+    }
+  ],
+  "etirozlar": [
+    {
+      "sarlavha": "\"Narxi qimmat\" e'toziga javob",
+      "matn": "Darhol chegirma taklif qilmang. Avval so'rang: \"Qimmat deganda, boshqa qaysi variant bilan solishtiryapsiz?\" — shunda haqiqiy asos ma'lum bo'ladi. Keyin qiymatni ko'rsating: joylashuv, hujjatlar tozaligi, qo'shni infratuzilma."
+    },
+    {
+      "sarlavha": "\"O'ylab ko'raman\" e'toziga javob",
+      "matn": "\"Albatta, muhim qaror. Aytingchi, aynan nimani ko'proq o'ylab ko'rmoqchisiz — narxnimi, joylashuvnimi, yoki boshqa narsanimi?\" — bu orqali haqiqiy to'siqni aniqlaysiz va uni bartaraf etasiz."
+    },
+    {
+      "sarlavha": "\"Xotinim/erim bilan maslahatlashaman\" e'toziga javob",
+      "matn": "\"Albatta, muhim qaror ikkalangiz uchun ham. Ularni ham ko'rgazmaga taklif qilsak bo'ladimi — shunda savollarga darhol javob bera olaman?\" — ikkinchi qaror qabul qiluvchini jarayonga jalb qiling, aks holda bitim osongina to'xtab qoladi."
+    },
+    {
+      "sarlavha": "\"Boshqa agentlik/uy egasi bilan ham gaplashyapman\" e'toziga javob",
+      "matn": "\"Tushunarli, taqqoslash to'g'ri yondashuv. Aytingchi, bizning taklifimizda sizni nima ko'proq qiziqtiryapti — shu asosda eng mos shartlarni taklif qilishga harakat qilaman.\" Raqobatchini yomonlamang, o'z qiymatingizga urg'u bering."
     }
   ]
 }
