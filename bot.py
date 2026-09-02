@@ -40,7 +40,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 BASE_DIR = Path(__file__).parent
-CONTENT_DIR = BASE_DIR / "content"
+CONTENT_DIR = BASE_DIR 
 
 BOT_TOKEN = os.getenv("BOT_TOKEN", "PUT_YOUR_BOT_TOKEN_HERE")
 ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY", "")
