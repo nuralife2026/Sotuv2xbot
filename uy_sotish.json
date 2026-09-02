@@ -1,0 +1,41 @@
+{
+  "nomi": "🏠 Uy sotish",
+  "skriptlar": [
+    {
+      "sarlavha": "Sovuq qo'ng'iroq (birinchi kontakt)",
+      "matn": "1. Salomlashing, ismingiz va kompaniyangizni ayting.\n2. \"Sizga 2 daqiqa vaqtingiz bormi?\" deb so'rang — ruxsat oling.\n3. Qiziqishini aniqlang: \"Qanday turdagi uy qidiryapsiz — kvartira, hovli joyми?\"\n4. Byudjet va joylashuvni bilib oling, lekin to'g'ridan-to'g'ri emas: \"Qaysi hududda yashashni afzal ko'rasiz?\"\n5. Uchrashuvga taklif qiling: \"Sizga mos 2-3 variant bor, ko'rsatib bersam bo'ladimi?\""
+    },
+    {
+      "sarlavha": "Ko'rgazma (ob'ektni ko'rsatish) skripti",
+      "matn": "1. Mijozni kutib oling, xonadonning eng kuchli tomonidan boshlang (yorug'lik, manzara, joylashuv).\n2. Savol bering: \"Bu joy sizning kundalik hayotingizga qanday mos keladi?\" — mijozni his qildiring, faktlarni emas.\n3. E'tirozlarni darhol yozib oling, lekin javobni oxiriga qoldiring.\n4. Ko'rgazma oxirida: \"Umuman qanday taassurot qoldi?\" deb so'rang — buni bahoni tekshirish uchun ishlating."
+    },
+    {
+      "sarlavha": "Bitimni yopish (closing) skripti",
+      "matn": "1. \"Agar narx va shartlar mos kelsa, bugun qaror qabul qilishga tayyormisiz?\" deb to'g'ridan-to'g'ri so'rang.\n2. Ikkilanish bo'lsa: \"Sizni nima tashvishlantiryapti — narxmi, hujjatlarmi, muddatmi?\" deb aniq sabab toping.\n3. Muqobil taklif bering: \"Agar narxni biroz moslashtirsak, bugun shartnoma tuzishga tayyormisiz?\""
+    }
+  ],
+  "xatoliklar": [
+    {
+      "sarlavha": "Xato: Faqat texnik xususiyatlarni sanab berish",
+      "matn": "Ko'p operatorlar kvadrat metr, qavat, qurilish yilini sanaydi, lekin mijozning HISSIY ehtiyojiga (oila, qulaylik, status) murojaat qilmaydi. Yechim: har bir xususiyatni foyda tiliga o'giring — \"3 xonali\" emas, \"bolalaringiz uchun alohida xona\"."
+    },
+    {
+      "sarlavha": "Xato: E'tirozdan qo'rqib, darhol narxni tushirish",
+      "matn": "Narx haqida e'tiroz bo'lganda darhol chegirma taklif qilish qiymatni pasaytiradi. Yechim: avval qiymatni tushuntiring, keyin moslashuvchan shartlar (bo'lib to'lash, bonus xizmat) taklif qiling."
+    },
+    {
+      "sarlavha": "Xato: Follow-up qilmaslik",
+      "matn": "Ko'rgazmadan keyin 70% operator mijozga qayta bog'lanmaydi. Yechim: 24 soat ichida albatta qo'ng'iroq yoki xabar, 3-5 kunda yana bir eslatma."
+    }
+  ],
+  "formulalar": [
+    {
+      "sarlavha": "AIDA formulasi (uy sotish uchun)",
+      "matn": "Attention (Diqqat) — kuchli ochilish gap bilan boshlang.\nInterest (Qiziqish) — mijoz ehtiyojiga mos xususiyatni ayting.\nDesire (Istak) — his-tuyg'uga murojaat: \"Bu yerda oilangiz bilan tinch hayot kechirasiz\".\nAction (Harakat) — aniq keyingi qadamni taklif qiling: \"Ertaga soat 15:00 da ko'ramizmi?\""
+    },
+    {
+      "sarlavha": "FOMO (yo'qotish qo'rquvi) formulasi",
+      "matn": "\"Bu narxdagi shu turdagi uylar hozir juda kam qolgan\" yoki \"Bu obyektga yana 2 kishi qiziqmoqda\" — lekin FAQAT haqiqat bo'lsa ishlating, yolg'on ishonchni yo'qotadi."
+    }
+  ]
+}

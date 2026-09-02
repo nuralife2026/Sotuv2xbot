@@ -1,0 +1,37 @@
+{
+  "nomi": "🚗 Mashina sotish",
+  "skriptlar": [
+    {
+      "sarlavha": "Salon/avtomobilga kelgan mijoz bilan ishlash",
+      "matn": "1. Darhol sotishga urinmang — \"Qanday maqsadda qidiryapsiz — oilaviy, ish uchunmi?\" deb so'rang.\n2. Byudjetni bilib oling, lekin \"qancha pulingiz bor\" emas, \"qaysi diapazonda ko'rib chiqyapsiz\" deb so'rang.\n3. Test-drayvga taklif qiling — tajriba sotuvni 3 barobar oshiradi.\n4. Test-drayvdan keyin: \"Rulda o'zingizni qanday his qildingiz?\" deb so'rang."
+    },
+    {
+      "sarlavha": "Telefon orqali qiziqish uyg'otish",
+      "matn": "1. \"Sizga mos avtomobil haqida qisqa ma'lumot bersam bo'ladimi?\" — ruxsat so'rang.\n2. Avtomobilning 1-2 eng kuchli afzalligini ayting (narx, kam yurgan, kafolat).\n3. \"Salonga kelib ko'rishga qachon qulay bo'lardi?\" deb aniq vaqt taklif qiling."
+    }
+  ],
+  "xatoliklar": [
+    {
+      "sarlavha": "Xato: Faqat texnik parametrlarni gapirish",
+      "matn": "Dvigatel hajmi, ot kuchi kabi raqamlar ko'pchilik mijozga tushunarli emas. Yechim: \"Bu dvigatel shahar ichida yoqilg'ini tejaydi\" kabi amaliy foyda tilida gapiring."
+    },
+    {
+      "sarlavha": "Xato: Test-drayvni taklif qilmaslik",
+      "matn": "Test-drayvsiz sotuv ehtimoli 2 barobar past. Har doim, hatto mijoz so'ramasa ham, test-drayvni o'zingiz taklif qiling."
+    },
+    {
+      "sarlavha": "Xato: Kredit/bo'lib to'lash variantlarini kech aytish",
+      "matn": "Ko'p mijozlar narxdan qo'rqib ketadi, chunki bo'lib to'lash imkoniyati haqida oxirida aytiladi. Yechim: suhbat boshidayoq oylik to'lov summasini ayting, bu narxni \"kichraytiradi\"."
+    }
+  ],
+  "formulalar": [
+    {
+      "sarlavha": "FAB formulasi (Feature-Advantage-Benefit)",
+      "matn": "Feature (Xususiyat): \"Bu mashinada avtomatik uzatmalar qutisi bor\".\nAdvantage (Afzallik): \"Shahar tirbandligida qo'lni charchatmaydi\".\nBenefit (Foyda): \"Har kuni ishga tinch va charchamay borasiz\"."
+    },
+    {
+      "sarlavha": "Ijtimoiy isbot (Social Proof)",
+      "matn": "\"Bu model oxirgi oyda eng ko'p sotilgan avtomobillardan biri bo'ldi\" yoki mamnun mijozlar sharhlarini ko'rsating — ishonchni oshiradi."
+    }
+  ]
+}

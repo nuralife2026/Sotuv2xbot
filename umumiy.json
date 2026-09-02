@@ -1,0 +1,37 @@
+{
+  "nomi": "📈 Sotuvni 2x oshirish sirlari",
+  "boblar": [
+    {
+      "sarlavha": "1. Ko'proq eshiting, kamroq gapiring",
+      "matn": "Eng yaxshi sotuvchilar 70% vaqtda tinglaydi, 30% gapiradi. Mijoz o'zi gapirganda, o'ziga o'zi sotadi — sizning vazifangiz to'g'ri savol berish."
+    },
+    {
+      "sarlavha": "2. Har doim keyingi qadamni aniq belgilang",
+      "matn": "Har bir suhbat \"ochiq\" tugamasligi kerak. \"O'ylab ko'raman\" bilan tugagan suhbat 90% hollarda savdoga aylanmaydi. Har doim aniq sana/vaqt bilan keyingi qadamni kelishib oling."
+    },
+    {
+      "sarlavha": "3. Follow-up tizimi (kuzatuv)",
+      "matn": "Statistikaga ko'ra, sotuvning 80% i 5-12 marta kontakt qilingandan keyin amalga oshadi, lekin operatorlarning 90% i 1-2 martadan keyin taslim bo'ladi. Har bir mijoz uchun follow-up jadvali tuzing: 1-kun, 3-kun, 7-kun, 14-kun."
+    },
+    {
+      "sarlavha": "4. E'tirozlarni oldindan bilib oling",
+      "matn": "Har bir sohada 5-7 ta eng ko'p uchraydigan e'tiroz bor (narx, vaqt, ishonch, raqobatchi, zaruratsizlik). Har biriga tayyor va tabiiy javob yozib qo'ying — bu ishonchni oshiradi."
+    },
+    {
+      "sarlavha": "5. Shoshilinchlik va tanqislikdan to'g'ri foydalaning",
+      "matn": "Faqat HAQIQIY bo'lsa ishlating (chegirma muddati, cheklangan miqdor). Yolg'on shoshilinchlik ishonchni butunlay yo'q qiladi va uzoq muddatda sotuvni kamaytiradi."
+    },
+    {
+      "sarlavha": "6. Kichik \"ha\"lardan boshlang",
+      "matn": "Katta qarorga o'tishdan oldin mijozdan bir nechta kichik roziliklar oling (\"Bu sizga foydali ko'rinyaptimi?\", \"Shu narsa muhimmi sizga?\"). Har bir \"ha\" keyingi \"ha\"ni osonlashtiradi."
+    },
+    {
+      "sarlavha": "7. Mijozni his-tuyg'u va mantiq bilan ikki marta \"sotib oling\"",
+      "matn": "Odamlar HISSIYOT bilan qaror qabul qilib, keyin uni MANTIQ bilan oqlaydi. Avval hissiy foyda (xotirjamlik, status, quvonch), keyin mantiqiy dalil (raqamlar, kafolat) bering."
+    },
+    {
+      "sarlavha": "8. Har bir \"yo'q\"ni tahlil qiling",
+      "matn": "Sotuv bo'lmasa, sababini albatta yozib boring: narxmi, vaqtmi, ishonchsizlikmi. Haftalik tahlil qiling — eng ko'p takrorlanayotgan sababni tuzating."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "nomi": "🌿 Tabiiy mahsulotlar (sog'liq)",
+  "skriptlar": [
+    {
+      "sarlavha": "Sog'liq mahsulotini taqdim etish skripti",
+      "matn": "1. Avval muammoni aniqlang: \"Sizni ko'proq nima bezovta qiladi — energiya yetishmasligimi, uyqu, ovqat hazm qilishmi?\"\n2. Mahsulotni shifo sifatida emas, YORDAMCHI vosita sifatida taqdim eting (huquqiy va ishonchli bo'lish uchun).\n3. Tarkibni sodda tilda tushuntiring: \"Bu tarkibda X bor, u odatda Y uchun foydali hisoblanadi\".\n4. Ijtimoiy isbot: boshqa mijozlarning tajribasini (haqiqiy, tekshirilgan) ulashing."
+    },
+    {
+      "sarlavha": "E'tirozga javob: \"Bu ishlaydimi o'zi?\"",
+      "matn": "\"Tushunaman, savolingiz to'g'ri — shuning uchun kichik hajmda sinab ko'rishni tavsiya qilaman. Agar natija ko'rinmasa, keyingi safar buyurtma berish shart emas\" — bosimsiz, ishonch beruvchi javob."
+    }
+  ],
+  "xatoliklar": [
+    {
+      "sarlavha": "Xato: Tibbiy va'da berish",
+      "matn": "\"Bu kasallikni davolaydi\" kabi gaplar noqonuniy va ishonchni yo'qotadi. Yechim: \"yordam beradi\", \"tabiiy ravishda qo'llab-quvvatlaydi\" kabi ehtiyotkor so'zlardan foydalaning."
+    },
+    {
+      "sarlavha": "Xato: Bosim bilan sotish",
+      "matn": "\"Faqat bugun\", \"faqat siz uchun\" kabi sun'iy shoshilinchlik ishonchni pasaytiradi, ayniqsa sog'liq mahsulotlarida. Yechim: haqiqiy foyda va sabr bilan tushuntirishga urg'u bering."
+    },
+    {
+      "sarlavha": "Xato: Mijoz muammosini tinglamaslik",
+      "matn": "Mahsulotni darhol taklif qilish, muammoni aniqlamasdan, ishonchsizlik tug'diradi. Har doim avval savol bering, keyin taklif qiling."
+    }
+  ],
+  "formulalar": [
+    {
+      "sarlavha": "PAS formulasi (Problem-Agitate-Solve)",
+      "matn": "Problem (Muammo): \"Kechqurun charchoq va uyqusizlikdan aziyat chekyapsizmi?\"\nAgitate (Kuchaytirish): \"Bu kayfiyatga, ish samaradorligiga ham ta'sir qiladi, shunday emasmi?\"\nSolve (Yechim): \"Ana shu muammoda ko'pchilikka X mahsuloti tabiiy yordam bergan\"."
+    },
+    {
+      "sarlavha": "Ishonch uchglagi",
+      "matn": "1) Tarkib shaffofligi (nima bordan tayyorlangan)\n2) Ijtimoiy isbot (sharhlar, natijalar)\n3) Kafolat (agar mos kelmasa, qaytarish sharti) — uchalasi birga bo'lsa ishonch maksimal bo'ladi."
+    }
+  ]
+}
