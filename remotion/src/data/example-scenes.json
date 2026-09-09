@@ -2,7 +2,8 @@
   "scenes": [
     {
       "type": "statement",
-      "durationInFrames": 78,
+      "durationInFrames": 237,
+      "audioSrc": "audio/intro.wav",
       "lines": [
         "📈 Sotuvni 2x oshirish sirlari",
         "Diqqat bilan tinglang 👇"
@@ -10,48 +11,50 @@
     },
     {
       "type": "talking-head",
-      "durationInFrames": 81,
+      "durationInFrames": 169,
+      "audioSrc": "audio/topic-0-headline.wav",
       "captions": [
         {
           "text": "1. ",
           "startMs": 0,
-          "endMs": 220,
-          "timestampMs": 110,
+          "endMs": 632.6530612244899,
+          "timestampMs": 316.32653061224494,
           "confidence": null
         },
         {
           "text": "Ko'proq ",
-          "startMs": 280,
-          "endMs": 595,
-          "timestampMs": 437.5,
+          "startMs": 962.6530612244899,
+          "endMs": 1890.7256235827665,
+          "timestampMs": 1426.6893424036282,
           "confidence": null
         },
         {
           "text": "eshiting, ",
-          "startMs": 655,
-          "endMs": 1060,
-          "timestampMs": 857.5,
+          "startMs": 1960.7256235827665,
+          "endMs": 2742.5850340136053,
+          "timestampMs": 2351.655328798186,
           "confidence": null
         },
         {
           "text": "kamroq ",
-          "startMs": 1120,
-          "endMs": 1390,
-          "timestampMs": 1255,
+          "startMs": 2812.5850340136053,
+          "endMs": 3733.809523809524,
+          "timestampMs": 3273.1972789115644,
           "confidence": null
         },
         {
           "text": "gapiring ",
-          "startMs": 1450,
-          "endMs": 1810,
-          "timestampMs": 1630,
+          "startMs": 3803.809523809524,
+          "endMs": 4752.108843537415,
+          "timestampMs": 4277.959183673469,
           "confidence": null
         }
       ]
     },
     {
       "type": "statement",
-      "durationInFrames": 102,
+      "durationInFrames": 611,
+      "audioSrc": "audio/topic-0-body.wav",
       "lines": [
         "Eng yaxshi sotuvchilar 70% vaqtda tinglaydi,",
         "30% gapiradi. Mijoz o'zi gapirganda, o'ziga",
@@ -61,62 +64,64 @@
     },
     {
       "type": "talking-head",
-      "durationInFrames": 95,
+      "durationInFrames": 220,
+      "audioSrc": "audio/topic-1-headline.wav",
       "captions": [
         {
           "text": "2. ",
           "startMs": 0,
-          "endMs": 220,
-          "timestampMs": 110,
+          "endMs": 797.9591836734694,
+          "timestampMs": 398.9795918367347,
           "confidence": null
         },
         {
           "text": "Har ",
-          "startMs": 280,
-          "endMs": 500,
-          "timestampMs": 390,
+          "startMs": 1127.9591836734694,
+          "endMs": 1809.2290249433106,
+          "timestampMs": 1468.59410430839,
           "confidence": null
         },
         {
           "text": "doim ",
-          "startMs": 560,
-          "endMs": 780,
-          "timestampMs": 670,
+          "startMs": 1879.2290249433106,
+          "endMs": 2617.052154195011,
+          "timestampMs": 2248.140589569161,
           "confidence": null
         },
         {
           "text": "keyingi ",
-          "startMs": 840,
-          "endMs": 1155,
-          "timestampMs": 997.5,
+          "startMs": 2687.052154195011,
+          "endMs": 3588.548752834467,
+          "timestampMs": 3137.8004535147393,
           "confidence": null
         },
         {
           "text": "qadamni ",
-          "startMs": 1215,
-          "endMs": 1530,
-          "timestampMs": 1372.5,
+          "startMs": 3658.548752834467,
+          "endMs": 4663.582766439909,
+          "timestampMs": 4161.065759637188,
           "confidence": null
         },
         {
           "text": "aniq ",
-          "startMs": 1590,
-          "endMs": 1810,
-          "timestampMs": 1700,
+          "startMs": 4733.582766439909,
+          "endMs": 5424.920634920635,
+          "timestampMs": 5079.251700680272,
           "confidence": null
         },
         {
           "text": "belgilang ",
-          "startMs": 1870,
-          "endMs": 2275,
-          "timestampMs": 2072.5,
+          "startMs": 5494.920634920635,
+          "endMs": 6465.941043083901,
+          "timestampMs": 5980.430839002268,
           "confidence": null
         }
       ]
     },
     {
       "type": "statement",
-      "durationInFrames": 102,
+      "durationInFrames": 751,
+      "audioSrc": "audio/topic-1-body.wav",
       "lines": [
         "Har bir suhbat \"ochiq\" tugamasligi kerak.",
         "\"O'ylab ko'raman\" bilan tugagan suhbat 90%",
@@ -127,41 +132,43 @@
     },
     {
       "type": "talking-head",
-      "durationInFrames": 71,
+      "durationInFrames": 172,
+      "audioSrc": "audio/topic-2-headline.wav",
       "captions": [
         {
           "text": "3. ",
           "startMs": 0,
-          "endMs": 220,
-          "timestampMs": 110,
+          "endMs": 567.3469387755102,
+          "timestampMs": 283.6734693877551,
           "confidence": null
         },
         {
           "text": "Follow-up ",
-          "startMs": 280,
-          "endMs": 685,
-          "timestampMs": 482.5,
+          "startMs": 897.3469387755102,
+          "endMs": 2894.625850340136,
+          "timestampMs": 1895.9863945578231,
           "confidence": null
         },
         {
           "text": "tizimi ",
-          "startMs": 745,
-          "endMs": 1015,
-          "timestampMs": 880,
+          "startMs": 2964.625850340136,
+          "endMs": 3860,
+          "timestampMs": 3412.312925170068,
           "confidence": null
         },
         {
-          "text": "(kuzatuv) ",
-          "startMs": 1075,
-          "endMs": 1480,
-          "timestampMs": 1277.5,
+          "text": "kuzatuv ",
+          "startMs": 3930,
+          "endMs": 4859.614512471655,
+          "timestampMs": 4394.8072562358275,
           "confidence": null
         }
       ]
     },
     {
       "type": "statement",
-      "durationInFrames": 102,
+      "durationInFrames": 1014,
+      "audioSrc": "audio/topic-2-body.wav",
       "lines": [
         "Statistikaga ko'ra, sotuvning 80% i 5-12 marta",
         "kontakt qilingandan keyin amalga oshadi, lekin",
@@ -172,7 +179,8 @@
     },
     {
       "type": "big-number",
-      "durationInFrames": 72,
+      "durationInFrames": 226,
+      "audioSrc": "audio/outro.wav",
       "headline": "Sotuv2xBot",
       "subline": "Ko'proq maslahat uchun botga o'ting"
     }

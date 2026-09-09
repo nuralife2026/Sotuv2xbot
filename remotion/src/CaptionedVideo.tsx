@@ -1,5 +1,5 @@
 import React from 'react';
-import {AbsoluteFill, Series} from 'remotion';
+import {AbsoluteFill, Audio, Series, staticFile} from 'remotion';
 import type {CaptionedVideoProps} from './types';
 import {SceneBackground} from './SceneBackground';
 import {Glitch} from './Glitch';
@@ -24,6 +24,8 @@ export const CaptionedVideo: React.FC<CaptionedVideoProps> = ({scenes}) => {
 				{scenes.map((scene, i) => (
 					<Series.Sequence key={i} durationInFrames={scene.durationInFrames}>
 						<AbsoluteFill>
+							{scene.audioSrc ? <Audio src={staticFile(scene.audioSrc)} /> : null}
+
 							{scene.glitch ? (
 								<Glitch seed={`scene-${i}`}>
 									<SceneBackground videoSrc={scene.videoSrc} />

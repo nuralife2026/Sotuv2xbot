@@ -4,6 +4,8 @@ export type BaseScene = {
 	durationInFrames: number;
 	/** public/ papkasiga nisbatan yo'l, masalan "footage/spiker.mp4". Bo'sh bo'lsa fon gradient bo'ladi. */
 	videoSrc?: string;
+	/** public/ papkasiga nisbatan yo'l, masalan "audio/topic-0.wav" — diktor ovozi yoki musiqa. */
+	audioSrc?: string;
 	/** RGB split / glitch effekti (pul yomg'iri kabi b-roll kadrlarda ko'ringan) */
 	glitch?: boolean;
 };
