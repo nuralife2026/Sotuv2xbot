@@ -11,7 +11,8 @@ const RELEASE_MS = 320;
 export const Word: React.FC<{
 	token: TikTokToken;
 	currentMs: number;
-}> = ({token, currentMs}) => {
+	activeColor?: string;
+}> = ({token, currentMs, activeColor = ACCENT_COLOR}) => {
 	if (currentMs < token.fromMs - ENTER_MS) {
 		return null;
 	}
@@ -49,7 +50,7 @@ export const Word: React.FC<{
 				fontWeight,
 				lineHeight: 1,
 				transform: `translateY(${translateY}px)`,
-				color: isActive ? ACCENT_COLOR : '#ffffff',
+				color: isActive ? activeColor : '#ffffff',
 				textShadow:
 					'0 2px 0 rgba(0,0,0,0.9), 0 4px 14px rgba(0,0,0,0.55), 0 0 2px rgba(0,0,0,0.9)',
 				whiteSpace: 'pre',

@@ -60,6 +60,48 @@ export const captionsFromLines = (
 	return all;
 };
 
+/**
+ * Matnni BERILGAN [startMs, endMs] oynasi ichiga sig'diradi — so'z uzunligiga
+ * qarab proporsional vaqt beradi. Haqiqiy audioda pauza orqali aniqlangan
+ * segment chegaralari ma'lum bo'lganda (masalan ffmpeg silencedetect), lekin
+ * to'liq so'z-vaqt transkripsiyasi yo'q holatlarda ishlatiladi — natija
+ * segment ichida tabiiy ko'rinadi va real pauzalarga aniq mos keladi.
+ */
+export const distributeWordsInWindow = (
+	text: string,
+	startMs: number,
+	endMs: number,
+	gapMs = 40,
+): Caption[] => {
+	const words = text.trim().split(/\s+/).filter(Boolean);
+	if (words.length === 0) return [];
+
+	const totalGap = gapMs * (words.length - 1);
+	const totalWeight = words.reduce((sum, w) => sum + w.length, 0);
+	const available = Math.max(words.length * 60, endMs - startMs - totalGap);
+
+	let cursor = startMs;
+	const captions: Caption[] = [];
+
+	for (const word of words) {
+		const duration = (word.length / totalWeight) * available;
+		const wordStart = cursor;
+		const wordEnd = wordStart + duration;
+
+		captions.push({
+			text: `${word} `,
+			startMs: wordStart,
+			endMs: wordEnd,
+			timestampMs: (wordStart + wordEnd) / 2,
+			confidence: null,
+		});
+
+		cursor = wordEnd + gapMs;
+	}
+
+	return captions;
+};
+
 /** Berilgan Caption[] ning umumiy davomiyligini freymlarga aylantiradi (kichik "quyruq" bilan). */
 export const durationInFramesFromCaptions = (
 	captions: Caption[],

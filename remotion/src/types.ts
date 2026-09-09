@@ -39,3 +39,22 @@ export type CaptionedVideoProps = {
 	/** audioSrc video umumiy davomiyligidan qisqa bo'lsa, uni qayta-qayta chaladi. Standart: true. */
 	loopAudio?: boolean;
 };
+
+/** Haqiqiy (spikerning o'z ovozi bilan yozilgan) video ustiga sarlavha qo'shish uchun. */
+export type FootageLine = {
+	text: string;
+	/** Millisekundlarda, videoning o'zidan (audio pauzalaridan) aniqlangan haqiqiy vaqt. */
+	startMs: number;
+	endMs: number;
+	icon?: 'question' | 'clock' | 'check' | 'chat';
+};
+
+export type RealFootageProps = {
+	/** public/ ga nisbatan yo'l — asl video, o'z audiosi bilan (o'zgartirilmaydi). */
+	videoSrc: string;
+	lines: FootageLine[];
+	/** public/ ga nisbatan yo'l — har bir sarlavha chiqqanda past ovozda eshitiladigan effekt. */
+	popSfxSrc?: string;
+	/** popSfxSrc ovoz balandligi (0..1). Standart: 0.12 — asl ovozni bosmasligi uchun past. */
+	popSfxVolume?: number;
+};

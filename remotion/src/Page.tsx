@@ -9,10 +9,12 @@ import {Word} from './Word';
  * (@remotion/captions tomonidan bir necha so'zga bo'lingan bo'lak) shu
  * komponent bilan chiziladi.
  */
-export const Page: React.FC<{page: TikTokPage; currentMs: number}> = ({
-	page,
-	currentMs,
-}) => {
+export const Page: React.FC<{
+	page: TikTokPage;
+	currentMs: number;
+	activeColor?: string;
+	topPercent?: number;
+}> = ({page, currentMs, activeColor, topPercent = 52}) => {
 	const relativeMs = currentMs - page.startMs;
 	if (relativeMs < -200 || relativeMs > page.durationMs + 400) {
 		return null;
@@ -30,7 +32,7 @@ export const Page: React.FC<{page: TikTokPage; currentMs: number}> = ({
 			style={{
 				justifyContent: 'flex-start',
 				alignItems: 'center',
-				paddingTop: '52%',
+				paddingTop: `${topPercent}%`,
 			}}
 		>
 			<div
@@ -48,7 +50,12 @@ export const Page: React.FC<{page: TikTokPage; currentMs: number}> = ({
 				}}
 			>
 				{page.tokens.map((token, i) => (
-					<Word key={`${token.text}-${i}`} token={token} currentMs={currentMs} />
+					<Word
+						key={`${token.text}-${i}`}
+						token={token}
+						currentMs={currentMs}
+						activeColor={activeColor}
+					/>
 				))}
 			</div>
 		</AbsoluteFill>
