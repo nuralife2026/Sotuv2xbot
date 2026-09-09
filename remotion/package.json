@@ -1,0 +1,27 @@
+{
+  "name": "sotuv2x-video",
+  "version": "1.0.0",
+  "private": true,
+  "description": "TikTok/Reels uslubidagi animatsion sarlavha (caption) videolar yaratish uchun Remotion loyihasi — Sotuv2xbot kontenti asosida.",
+  "scripts": {
+    "start": "remotion studio src/index.ts",
+    "build": "remotion render src/index.ts CaptionedVideo out/video.mp4",
+    "typecheck": "tsc --noEmit",
+    "captions:from-content": "tsx src/utils/generateFromContent.ts"
+  },
+  "dependencies": {
+    "@remotion/captions": "4.0.523",
+    "@remotion/google-fonts": "4.0.523",
+    "@remotion/media-utils": "4.0.523",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "remotion": "4.0.523"
+  },
+  "devDependencies": {
+    "@remotion/cli": "4.0.523",
+    "@types/node": "^22.0.0",
+    "@types/react": "18.3.1",
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0"
+  }
+}

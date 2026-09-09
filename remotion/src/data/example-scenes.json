@@ -1,0 +1,180 @@
+{
+  "scenes": [
+    {
+      "type": "statement",
+      "durationInFrames": 78,
+      "lines": [
+        "📈 Sotuvni 2x oshirish sirlari",
+        "Diqqat bilan tinglang 👇"
+      ]
+    },
+    {
+      "type": "talking-head",
+      "durationInFrames": 81,
+      "captions": [
+        {
+          "text": "1. ",
+          "startMs": 0,
+          "endMs": 220,
+          "timestampMs": 110,
+          "confidence": null
+        },
+        {
+          "text": "Ko'proq ",
+          "startMs": 280,
+          "endMs": 595,
+          "timestampMs": 437.5,
+          "confidence": null
+        },
+        {
+          "text": "eshiting, ",
+          "startMs": 655,
+          "endMs": 1060,
+          "timestampMs": 857.5,
+          "confidence": null
+        },
+        {
+          "text": "kamroq ",
+          "startMs": 1120,
+          "endMs": 1390,
+          "timestampMs": 1255,
+          "confidence": null
+        },
+        {
+          "text": "gapiring ",
+          "startMs": 1450,
+          "endMs": 1810,
+          "timestampMs": 1630,
+          "confidence": null
+        }
+      ]
+    },
+    {
+      "type": "statement",
+      "durationInFrames": 102,
+      "lines": [
+        "Eng yaxshi sotuvchilar 70% vaqtda tinglaydi,",
+        "30% gapiradi. Mijoz o'zi gapirganda, o'ziga",
+        "o'zi sotadi — sizning vazifangiz to'g'ri savol",
+        "berish."
+      ]
+    },
+    {
+      "type": "talking-head",
+      "durationInFrames": 95,
+      "captions": [
+        {
+          "text": "2. ",
+          "startMs": 0,
+          "endMs": 220,
+          "timestampMs": 110,
+          "confidence": null
+        },
+        {
+          "text": "Har ",
+          "startMs": 280,
+          "endMs": 500,
+          "timestampMs": 390,
+          "confidence": null
+        },
+        {
+          "text": "doim ",
+          "startMs": 560,
+          "endMs": 780,
+          "timestampMs": 670,
+          "confidence": null
+        },
+        {
+          "text": "keyingi ",
+          "startMs": 840,
+          "endMs": 1155,
+          "timestampMs": 997.5,
+          "confidence": null
+        },
+        {
+          "text": "qadamni ",
+          "startMs": 1215,
+          "endMs": 1530,
+          "timestampMs": 1372.5,
+          "confidence": null
+        },
+        {
+          "text": "aniq ",
+          "startMs": 1590,
+          "endMs": 1810,
+          "timestampMs": 1700,
+          "confidence": null
+        },
+        {
+          "text": "belgilang ",
+          "startMs": 1870,
+          "endMs": 2275,
+          "timestampMs": 2072.5,
+          "confidence": null
+        }
+      ]
+    },
+    {
+      "type": "statement",
+      "durationInFrames": 102,
+      "lines": [
+        "Har bir suhbat \"ochiq\" tugamasligi kerak.",
+        "\"O'ylab ko'raman\" bilan tugagan suhbat 90%",
+        "hollarda savdoga aylanmaydi. Har doim aniq",
+        "sana/vaqt bilan keyingi qadamni kelishib",
+        "oling."
+      ]
+    },
+    {
+      "type": "talking-head",
+      "durationInFrames": 71,
+      "captions": [
+        {
+          "text": "3. ",
+          "startMs": 0,
+          "endMs": 220,
+          "timestampMs": 110,
+          "confidence": null
+        },
+        {
+          "text": "Follow-up ",
+          "startMs": 280,
+          "endMs": 685,
+          "timestampMs": 482.5,
+          "confidence": null
+        },
+        {
+          "text": "tizimi ",
+          "startMs": 745,
+          "endMs": 1015,
+          "timestampMs": 880,
+          "confidence": null
+        },
+        {
+          "text": "(kuzatuv) ",
+          "startMs": 1075,
+          "endMs": 1480,
+          "timestampMs": 1277.5,
+          "confidence": null
+        }
+      ]
+    },
+    {
+      "type": "statement",
+      "durationInFrames": 102,
+      "lines": [
+        "Statistikaga ko'ra, sotuvning 80% i 5-12 marta",
+        "kontakt qilingandan keyin amalga oshadi, lekin",
+        "operatorlarning 90% i 1-2 martadan keyin",
+        "taslim bo'ladi. Har bir mijoz uchun follow-up",
+        "jadvali tuzing: 1-kun, 3-kun, 7-kun, 14-kun."
+      ]
+    },
+    {
+      "type": "big-number",
+      "durationInFrames": 72,
+      "headline": "Sotuv2xBot",
+      "subline": "Ko'proq maslahat uchun botga o'ting"
+    }
+  ]
+}
