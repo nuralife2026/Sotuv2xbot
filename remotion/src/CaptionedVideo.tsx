@@ -17,9 +17,15 @@ const Vignette: React.FC = () => (
 	/>
 );
 
-export const CaptionedVideo: React.FC<CaptionedVideoProps> = ({scenes}) => {
+export const CaptionedVideo: React.FC<CaptionedVideoProps> = ({
+	scenes,
+	audioSrc,
+	loopAudio = true,
+}) => {
 	return (
 		<AbsoluteFill style={{backgroundColor: '#000000'}}>
+			{audioSrc ? <Audio src={staticFile(audioSrc)} loop={loopAudio} /> : null}
+
 			<Series>
 				{scenes.map((scene, i) => (
 					<Series.Sequence key={i} durationInFrames={scene.durationInFrames}>

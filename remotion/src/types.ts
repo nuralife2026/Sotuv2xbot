@@ -34,4 +34,8 @@ export type Scene = TalkingHeadScene | StatementScene | BigNumberScene;
 
 export type CaptionedVideoProps = {
 	scenes: Scene[];
+	/** Butun video davomida chaladigan yagona fon audio (masalan asl videodan olingan ovoz). public/ ga nisbatan yo'l. */
+	audioSrc?: string;
+	/** audioSrc video umumiy davomiyligidan qisqa bo'lsa, uni qayta-qayta chaladi. Standart: true. */
+	loopAudio?: boolean;
 };
